@@ -27,6 +27,7 @@ HealthyCalc
     │└── water.py # Water intake calculation
     │
     ├── main.py # Main program entry point
+    ├── tests #test scripts for basic functions
     └── README.md # Project info and usage
 
     How to Run the Project
